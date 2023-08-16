@@ -1677,15 +1677,19 @@ div#fecha {
   height: 100vh;
   background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
+  background-position: center center; /* Asegura que el fondo esté centrado */
 }
 @media (max-width: 600px) and (min-height: 700px) {
   div#fecha {
     background-position: 0 10vh;
+    background-position: center 10vh; /* Ajusta la posición vertical */
   }
 }
 @media (min-width: 1200px) {
   div#fecha {
     width: 35vw !important;
+    background-position: center 10vh;
+    background-position: center center;
   }
 }
 
@@ -2160,7 +2164,7 @@ div#confirmacion .mascara2 {
 }
 div#confirmacion .confirmacion_texto {
   padding: 0 12vw;
-  margin-top: 3vh;
+  margin-top: 1vh;
 }
 @media (min-height: 700px) {
   div#confirmacion .confirmacion_texto {
