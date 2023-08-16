@@ -1577,7 +1577,7 @@ div#portada {
 div#portada .portada_imagen {
   width: 72vw;
   height: 75vh;
-  background: url(images/fotos/1\ \(3\).jpeg) no-repeat;
+  background: url() no-repeat;
   background-size: cover;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -1585,7 +1585,7 @@ div#portada .portada_imagen {
 }
 @media (min-width: 600px) {
   div#portada .portada_imagen {
-    background: url(images/fotos/1\ \(3\).jpeg) no-repeat;
+    background: url() no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1693,12 +1693,12 @@ div#fecha .fecha_imagen {
   left: auto;
   width: 100vw;
   height: 51vh;
-  background: url(images/fotos/1\ \(4c\).jpeg) no-repeat;
+  background: url() no-repeat;
   background-size: 100% auto;
 }
 @media (min-width: 600px) {
   div#fecha .fecha_imagen {
-    background: url(images/fotos/1\ \(4c\).jpeg) no-repeat;
+    background: url() no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1888,7 +1888,7 @@ div#fiesta .banda {
 div#fiesta .fiesta_imagen {
   width: 70vw;
   height: 50vh;
-  background: url(images/fotos/1\ \(9c\).jpeg) no-repeat;
+  background: url() no-repeat;
   background-size: 100% auto;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -1896,7 +1896,7 @@ div#fiesta .fiesta_imagen {
 }
 @media (min-width: 600px) {
   div#fiesta .fiesta_imagen {
-    background: url(images/fotos/1\ \(9c\).jpeg) no-repeat;
+    background: url() no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -2023,7 +2023,7 @@ div#hashtag .hashtag_imagen {
   width: 65vw;
   height: 60vh;
   margin: 5vh 0 3vh 0;
-  background-image: url(images/fotos/1\ \(12c\).jpeg);
+  background-image: url();
   background-size: cover;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -2031,7 +2031,7 @@ div#hashtag .hashtag_imagen {
 }
 @media (min-width: 600px) {
   div#hashtag .hashtag_imagen {
-    background: url(images/fotos/1\ \(12c\).jpeg) no-repeat;
+    background: url() no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -2150,12 +2150,12 @@ div#confirmacion .confirmacion_imagen {
   left: auto;
   width: 100vw;
   height: 51vh;
-  background: url(images/fotos/1\ \(1c\).jpeg) no-repeat;
+  background: url() no-repeat;
   background-size: 100% auto;
 }
 @media (min-width: 600px) {
   div#confirmacion .confirmacion_imagen {
-    background: url(images/fotos/1\ \(1c\).jpeg) no-repeat;
+    background: url() no-repeat;
   }
 }
 @media (min-width: 1200px) {
