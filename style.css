@@ -1688,19 +1688,7 @@ div#fecha {
     width: 35vw !important;
   }
 }
-div#fecha .fecha_imagen {
-  top: auto;
-  left: auto;
-  width: 100vw;
-  height: 51vh;
-  background: url() no-repeat;
-  background-size: 100% auto;
-}
-@media (min-width: 600px) {
-  div#fecha .fecha_imagen {
-    background: url() no-repeat;
-  }
-}
+
 @media (min-width: 1200px) {
   div#fecha .fecha_imagen {
     width: 35vw;
