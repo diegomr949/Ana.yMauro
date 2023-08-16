@@ -2123,11 +2123,13 @@ div#confirmacion {
   padding: 17vh 18vw 10vh 18vw;
   background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
+  background-position: center center;
 }
 @media (max-width: 600px) and (min-height: 700px) {
   div#confirmacion {
     padding: 17vh 10vw 10vh 10vw;
     background-position: 0 10vh;
+    background-position: center 10vh;
   }
 }
 @media (min-width: 1200px) {
