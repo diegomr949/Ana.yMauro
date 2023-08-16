@@ -1675,6 +1675,7 @@ div#historia .historia_texto .historia_titulo h1 {
 div#fecha {
   width: 100vw;
   height: 100vh;
+  padding: 17vh 18vw 10vh 18vw;
   background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
